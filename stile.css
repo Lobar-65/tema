@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card{
+    width: 850px;
+    height: 703px;
+    background-image: url(./images.jpg);
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-size: cover; 
+    display: flex;
+    color: deeppink;
+}
